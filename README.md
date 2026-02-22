@@ -117,4 +117,4 @@ Use GitHub for version control, collaboration, and documentation
 
 Present workflow as part of your project deliverables
 
-This demonstrates both technical and professional competency.
+This demonstrates both technical and professional competency...
